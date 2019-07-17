@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jun 22 16:23:11 2019
-
-@author: 
+this script only can read the .soft file, and it can't extract the gene symbol
+ @author: 
 """
 import linecache
 
